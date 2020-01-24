@@ -1,2 +1,2 @@
 # Pythagorean-triple
-A nice, C based program to calculate ythagorean triples by brute force.
+A nice, C based program to calculate pythagorean triples by brute force.
